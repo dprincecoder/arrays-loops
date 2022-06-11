@@ -11,11 +11,11 @@ TODO
 
 3rd: Open the folder you cloned in visual-studio code, you will see one file called (TODO.js).
 
-4th:  you can write your code inside .
+4th:  create a new branch called (yourname.js).
 
-4th: inside the (yourname.js) you just created, you will see all arrays and instructions on what to do.
+4th: inside the (TODO.js), you will see all arrays and instructions on what to do copy every thing from there to your new file (yourname.js) you created then code your solution.
 
-5th: All challenge should you accept to do.
+5th: this challenge should you accept to do it.
 
 6th: inside the (index.html) file you saw earlier edit it and include your (yourname.js) file at the bottom of the page before the closing tag of body.
 
