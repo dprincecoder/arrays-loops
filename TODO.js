@@ -31,7 +31,7 @@ const arrOfNum = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 //1. Write a function that takes an array of numbers and returns the sum of all the numbers.
 
-//2. Write a function that takes an array and return the total items in the array.
+//2. Write a function that takes an array of numbers and return the total items in the array.
 
 //3. write a function that takes an array of numbers and returns a number you want from the array.
 
