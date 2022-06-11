@@ -9,9 +9,9 @@ TODO
 
 2nd: clone this repo in your computer folder
 
-3rd: Open the folder you cloned in visual-studio code, you will see one file called (index.html).
+3rd: Open the folder you cloned in visual-studio code, you will see one file called (TODO.js).
 
-4th:  create new file called ( yourname.js).
+4th:  you can write your code inside .
 
 4th: inside the (yourname.js) you just created, you will see all arrays and instructions on what to do.
 

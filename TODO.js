@@ -4,7 +4,27 @@ attempt at least 2 out of 3*/
 //use this log where ncessary and when you want to log something:
 const { log } = console;
 
+
+//use this html to test your code in the browser:
+const sumOfNumber = document.querySelector(".sum-of-no");
+const lengthOfArr = document.querySelector(".len-of-arr");
+const totalItemsOfArr = document.querySelector(".len-of-arr");
+const NumOfChoice = document.querySelector(".num-of-choice");
+const firstAndLastName = document.querySelector(".first-and-last-name");
+const fiveLetterLong = document.querySelector(".five-letters-long");
+const countryWithAatTheEnd = document.querySelector(".country-with-a-at-end");
+const countryStartingWithN = document.querySelector(
+  ".country-with-starting-with-n"
+);
+const countryWithAInMiddle = document.querySelector(
+  ".country-with-a-in-middle"
+);
+
+
 /*--==============================-----------------------=======================-----------------------=======================*/
+
+//hint: to insert your result in the html, use the textContent property of the element you want to insert the result in.
+//e.g: sumOfNumber.textContent = yourResult;
 
 //array 1
 const arrOfNum = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
