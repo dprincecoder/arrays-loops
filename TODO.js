@@ -13,12 +13,8 @@ const NumOfChoice = document.querySelector(".num-of-choice");
 const firstAndLastName = document.querySelector(".first-and-last-name");
 const fiveLetterLong = document.querySelector(".five-letters-long");
 const countryWithAatTheEnd = document.querySelector(".country-with-a-at-end");
-const countryStartingWithN = document.querySelector(
-  ".country-with-starting-with-n"
-);
-const countryWithAInMiddle = document.querySelector(
-  ".country-with-a-in-middle"
-);
+const countryStartingWithN = document.querySelector(".country-with-starting-with-n");
+const countryWithAInMiddle = document.querySelector(".country-with-a-in-middle");
 
 
 /*--==============================-----------------------=======================-----------------------=======================*/
