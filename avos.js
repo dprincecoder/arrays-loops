@@ -164,8 +164,8 @@ console.log(loopObjTree(arrOfObject))
 
 //Task 4.2
 const ageSort = arr => {
-    arr = arr.filter(arr => arr.age > 20 && arr.age < 30)
-    return arr
+    result = arr.filter(arr => arr.age > 20 && arr.age < 30)
+    return result
 }
 console.log(ageSort(arrOfObject))
 
