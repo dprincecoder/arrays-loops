@@ -142,21 +142,62 @@ const arrOfObject = [
 
 //1 write a function that takes an array of objects then loop through the array in 3 types of looping an array of objects.
 //this 3 methods must be in 3 different functions.
+
+//using for loop
+
 function firstLoop(arrObj){
-  for (let i = 0; i < arrObj.length; i++) {
+  let i;
+  for (i = 0; i < arrObj.length; i++) {
+    console.log(arrObj[i]);
+   
+  }
+  return arrObj[i];
+}
+firstLoop(arrOfObject);
+
+//using do...while loop
+
+function secondLoop(arrObj){
+  let i = 0;
+  do{
+    console.log(arrObj[i]);
+    i++
+  }while (i < arrObj.length);
+  return arrObj[i];
+}
+secondLoop(arrOfObject);
+
+//using for/in loop
+function thirdLoop(arrObj){
+  let i = 0;
+  for ( i in arrObj) {
     console.log(arrObj[i]);
   }
   return arrObj[i];
 }
-console.log(firstLoop(arrOfObject));
+thirdLoop(arrOfObject);
+
+
 //2 write a function that takes an array of objects and returns the object that has age that is greater than 20 and less than 30.
-function filterArr(arrOfObject){
+function filterArr(arr){
   
+  for (let i in arr){
+  if ( arr[i].age > 20 && arr[i].age < 30 ) {console.log(arr[i])}
+  }
 }
+filterArr(arrOfObject);
 
 
 //3 write a function that takes an array of objects and returns the object that has name that is 'John'.
 
-function nameHasJohn(item){
- 
+function nameHasJohn(arr){
+  
+  for (let i in arr){
+    if (arr[i].name ==='John'){
+      console.log(arr[i]);
+      var foundName = arr[i];
+    }
+  }
+  return foundName;
 }
+hasJohn.textContent = nameHasJohn(arrOfObject);
