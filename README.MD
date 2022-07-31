@@ -1,29 +1,28 @@
-# Getting-started with js
+# Learn-JS
 
-# learn-js
-
-# A repo for learning js and become js expert
+# A repo to practice looping through arrays under different conditions.
 
 TODO
-1st: fork this repo into your account
+1. Fork this repo to copy.
 
-2nd: clone this repo in your computer folder
+1. Clone your branch to your PC locally.
 
-3rd: Open the folder you cloned in visual-studio code, you will see one file called (TODO.js).
+3. Open the local clone in VS-Code.
 
-4th:  create a new branch called (yourname.js).
+4. Create a new file named (yourname.js).
 
-4th: inside the (TODO.js), you will see all arrays and instructions on what to do copy every thing from there to your new file (yourname.js) you created then code your solution.
+5. Copy the selectors and arrays from 'todo.js' to your file (yourname.js) & start the exercise.
 
-5th: this challenge should you accept to do it.
+6. In the html file, Use a script tag to add (yourname.js) file. Place it just above the body closing tag.
 
-6th: inside the (index.html) file you saw earlier edit it and include your (yourname.js) file at the bottom of the page before the closing tag of body.
+7. Check your result in the browser.
 
-7th: run it as liveserver and check if it successfully and that you get all your results showing in the browser.
+8. Commit changes to your github branch.
 
-8th: push back to this repo for checking.
+8. Push back to this repo for review.
 
-9th: give this repo a star ⭐.
+9. Give this repo a star ⭐.
 
-lastly: need help? dm me;
-Goodluck.
+10. Need help? DM me.
+
+Goodluck!
